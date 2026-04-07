@@ -138,4 +138,4 @@ While SimpleRNN provides foundational understanding, more advanced architectures
 
 ## 👨‍💻 Author
 
-Your Name
+Bhavan Kumar G M
