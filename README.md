@@ -64,7 +64,7 @@ pip install tensorflow numpy
 ## ▶️ How to Run
 
 ```bash
-python your_script.py
+python main.py
 ```
 
 ---
